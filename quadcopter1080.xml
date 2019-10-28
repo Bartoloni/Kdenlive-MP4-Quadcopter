@@ -1,0 +1,4 @@
+<profiles version="1">
+ <profile category="Custom" name="MP4 X264 - Quadcopter - 1080 CRF 23 [Davy]" extension="mp4" args="properties=x264-medium f=mp4 vcodec=libx264 acodec=aac g=120 crf=23 ab=128+'k'"/>
+</profiles>
+
